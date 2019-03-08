@@ -18,7 +18,7 @@ namespace DatingApp.API.Controllers
         {
             _context = context;
         }
-        // GET api/values
+        //DENEME
         [HttpGet]
         public async Task<IActionResult> Get()
         {
